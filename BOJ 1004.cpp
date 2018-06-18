@@ -1,5 +1,5 @@
 #include<stdio.h>
-//BOJ 1004번 
+//BOJ 1004번 어린 왕자
 int t;
 int main() {
 	scanf("%d", &t);
