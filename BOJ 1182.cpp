@@ -1,4 +1,4 @@
-//백준 온라인 저지 1182번 
+//백준 온라인 저지 1182번 부분집합의 합
 #include<stdio.h>
 int n, s, sum, ans, a[22];
 int main() {
