@@ -4,6 +4,7 @@
 using namespace std;
 
 int n;
+// 우선순위 큐 사용
 priority_queue<int> mxHeap,mnHeap;
 
 int main(){
