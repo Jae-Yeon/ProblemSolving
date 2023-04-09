@@ -1,4 +1,5 @@
 #include<stdio.h>
+#define g_ 105
 #define n_ 105
 int n, m;
 int go1[105][105];
